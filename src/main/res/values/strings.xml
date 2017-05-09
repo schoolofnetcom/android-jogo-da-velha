@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Velha</string>
+    <string name="title_splash">Jogo da Velha</string>
+    <string name="btn_start_game">Start Game</string>
+    <string name="btn_about_game">About Game</string>
+    <string name="btn_exit_game">Exit Game</string>
+    <string name="about_text">Developed by School of net - Copyright 2017 - All right reserved</string>
+</resources>
